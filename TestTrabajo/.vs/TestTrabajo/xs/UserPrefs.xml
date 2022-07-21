@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{B70DD142-C403-4F61-AD2D-03BFED5A5270}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestTrabajo/Controllers/ClientesController.cs">
+    <Files>
+      <File FileName="TestTrabajo/Data/ApiContext.cs" Line="25" Column="6" />
+      <File FileName="TestTrabajo/Controllers/UsuariosController.cs" Line="17" Column="2" />
+      <File FileName="TestTrabajo/Controllers/ClientesController.cs" Line="28" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestTrabajo" expanded="True">
+            <Node name="TestTrabajo" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ClientesController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestTrabajo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
